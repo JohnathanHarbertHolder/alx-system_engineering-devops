@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello 'su guillaume'
+chown root hello 'su guillaume'

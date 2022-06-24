@@ -1,3 +1,2 @@
 #!/bin/bash
-chown vincent staff READLINK(_hello)
-chgrp vincent staff READLINK(_hello)
+chown vincent staff READLINK(_hello) / chgrp vincent staff READLINK(_hello)
