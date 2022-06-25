@@ -1,3 +1,2 @@
 #!/bin/bash
-READLINK(_hello)
-chown vincent staff_chgrp vincent staff
+chown -h vincent:staff _hello
